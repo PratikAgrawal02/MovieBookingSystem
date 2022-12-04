@@ -1,0 +1,62 @@
+[
+	{
+		"MovieDate" : "7-2-2004",
+		"MovieTime" : "4:39pm",
+		"id" : "1",
+		"movie" : 
+		{
+			"movieNumber" : "M1001"
+		},
+		"ticketer" : 
+		{
+			"address" : "na",
+			"name" : "Pratik",
+			"phone" : "09909090909\\"
+		}
+	},
+	{
+		"MovieDate" : "12-12-2003",
+		"MovieTime" : "5:40pm",
+		"id" : "1",
+		"movie" : 
+		{
+			"movieNumber" : "M1001"
+		},
+		"ticketer" : 
+		{
+			"address" : "na",
+			"name" : "Deepthi",
+			"phone" : "999999999"
+		}
+	},
+	{
+		"MovieDate" : "11/11/2022",
+		"MovieTime" : "11.00 am",
+		"id" : "2",
+		"movie" : 
+		{
+			"movieNumber" : "M1002"
+		},
+		"ticketer" : 
+		{
+			"address" : "test",
+			"name" : "Pratik",
+			"phone" : "1234567890"
+		}
+	},
+	{
+		"MovieDate" : "12",
+		"MovieTime" : "",
+		"id" : "3",
+		"movie" : 
+		{
+			"movieNumber" : "12"
+		},
+		"ticketer" : 
+		{
+			"address" : "",
+			"name" : "12",
+			"phone" : "12"
+		}
+	}
+]

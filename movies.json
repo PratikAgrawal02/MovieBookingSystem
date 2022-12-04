@@ -1,0 +1,23 @@
+[
+	{
+		"id" : "0",
+		"language" : "English,Hindi",
+		"movieNumber" : "M1000",
+		"name" : "3idiot",
+		"ticketPrice" : "100"
+	},
+	{
+		"id" : "1",
+		"language" : "Hindi",
+		"movieNumber" : "M1001",
+		"name" : "Munna bhai mbbs",
+		"ticketPrice" : "200"
+	},
+	{
+		"id" : "2",
+		"language" : "hindi",
+		"movieNumber" : "M1002",
+		"name" : "test",
+		"ticketPrice" : "100"
+	}
+]
